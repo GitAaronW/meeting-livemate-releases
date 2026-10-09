@@ -1,11 +1,11 @@
 {
-  "version": "0.9.6",
+  "version": "0.9.7",
   "released": "2026-10-09",
-  "zip": "tinghuitai-desktop-v0.9.6.zip",
-  "notes": "全局中文/EN同步切换会议生成内容；每张成果、总结与洞察卡片可独立切换中英展示。翻译按原文缓存，保留表格、数字、链接、来源、未确认状态与人工修改；失败留住原文并可重试。修复浏览器与原生会议共享计时，切换大小窗不归零。 MyAgent与Codex新对话使用自然Markdown，资料独立折叠；更新改用独立公开的无Key程序下载仓库，家庭预配包和源码保持私密，升级保留已有配置与会议。",
+  "zip": "tinghuitai-desktop-v0.9.7.zip",
+  "notes": "同一项目跨会议接续路线图和验证清单，保留人工修改、来源和历史，冲突按章节处理，失败可重试。JEV 451 后本场改用本机筛选，下场自动重试；修复筛选早于新句子保存的竞态。公开程序包减少内部资料，更新只使用独立公开发行仓库，严格核对固定提交、ZIP/DMG一致性与凭据。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "sha256": "f204c58c34ea8cf465858013f0be4c06025268bf1f714cc380a9278cf163642f",
-  "size": 2209600,
-  "source_sha": "2ed913fcc3e9da4b9d54be001f236c746c73303a"
+  "source_sha": "a73fb35bc4bcb4b958b3524bcbe70e79729031df",
+  "sha256": "108f574d8c8e724e3d94bf2cc8e15de7ce4487474de05883e6fcf0b42e44f3ab",
+  "size": 1623210
 }
