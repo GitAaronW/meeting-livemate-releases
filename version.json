@@ -1,11 +1,11 @@
 {
-  "version": "0.9.7",
-  "released": "2026-10-09",
-  "zip": "tinghuitai-desktop-v0.9.7.zip",
-  "notes": "同一项目跨会议接续路线图和验证清单，保留人工修改、来源和历史，冲突按章节处理，失败可重试。JEV 451 后本场改用本机筛选，下场自动重试；修复筛选早于新句子保存的竞态。公开程序包减少内部资料，更新只使用独立公开发行仓库，严格核对固定提交、ZIP/DMG一致性与凭据。",
+  "version": "0.10.0",
+  "released": "2026-10-10",
+  "zip": "tinghuitai-desktop-v0.10.0.zip",
+  "notes": "重构会议首页与会中工作界面：真实日历加入、会前笔记接续录音、可编辑富文档、局部 AI 草稿与评论、独立折叠的实时转写与主动智能。明确操作可在文档内推进事项，保留人工修改。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "a73fb35bc4bcb4b958b3524bcbe70e79729031df",
-  "sha256": "108f574d8c8e724e3d94bf2cc8e15de7ce4487474de05883e6fcf0b42e44f3ab",
-  "size": 1623210
+  "sha256": "a73e451dcadba8d1e882e7b404f26178d8717163ba8cb08809ac1e0c0beacefc",
+  "size": 15796317,
+  "source_sha": "9574ee5ac7c8d5c65431dbee7ef8b2b3a09c9523"
 }
