@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "released": "2026-10-10",
-  "zip": "tinghuitai-desktop-v0.10.0.zip",
-  "notes": "重构会议首页与会中工作界面：真实日历加入、会前笔记接续录音、可编辑富文档、局部 AI 草稿与评论、独立折叠的实时转写与主动智能。明确操作可在文档内推进事项，保留人工修改。",
+  "version": "0.10.1",
+  "released": "2026-10-11",
+  "zip": "tinghuitai-desktop-v0.10.1.zip",
+  "notes": "会议页移除旧版头尾和重复控件；工作台并入侧栏我的笔记；本机系统音频录制入口、桌面会议窗口提醒与原生录音。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "sha256": "a73e451dcadba8d1e882e7b404f26178d8717163ba8cb08809ac1e0c0beacefc",
-  "size": 15796317,
-  "source_sha": "9574ee5ac7c8d5c65431dbee7ef8b2b3a09c9523"
+  "source_sha": "99ea25989bca180c10020ea7ef47a53678034483",
+  "sha256": "4a1b6d5b99ed0872526a716b1c527431e2f904cfe6f27ff099de390ea0aadcc5",
+  "size": 15814893
 }
