@@ -1,11 +1,11 @@
 {
-  "version": "0.10.1",
-  "released": "2026-10-11",
-  "zip": "tinghuitai-desktop-v0.10.1.zip",
-  "notes": "会议页移除旧版头尾和重复控件；工作台并入侧栏我的笔记；本机系统音频录制入口、桌面会议窗口提醒与原生录音。",
+  "version": "0.10.2",
+  "released": "2026-10-13",
+  "zip": "tinghuitai-desktop-v0.10.2.zip",
+  "notes": "任务与验收绑定、首稿回执、长会分段校准及私密成果预览修复。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "99ea25989bca180c10020ea7ef47a53678034483",
-  "sha256": "4a1b6d5b99ed0872526a716b1c527431e2f904cfe6f27ff099de390ea0aadcc5",
-  "size": 15814893
+  "source_sha": "19784fafd7932d9626d6843fb3ab22d4c933e1b7",
+  "sha256": "3e2b471803e4a1925aa06b2a9630bbefc84a2d5b1b8d1fba0a61149736d52f28",
+  "size": 15796694
 }
