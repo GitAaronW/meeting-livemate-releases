@@ -1,11 +1,11 @@
 {
-  "version": "0.10.4",
+  "version": "0.10.5",
   "released": "2026-10-13",
-  "zip": "tinghuitai-desktop-v0.10.4.zip",
-  "notes": "原生 Mac 启动入口与逐句语义降级修复，升级保留配置。",
+  "zip": "tinghuitai-desktop-v0.10.5.zip",
+  "notes": "修复已结束待核对任务阻挡更新，家庭包升级纠正旧 Intel 运行环境，保留现有 Key 与资料。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "fd8931aa5384b8846c328f964c056f923e4b96fe",
-  "sha256": "b52884e4d92ac7f479e861fc8f965278dfa0e31d4ed0aa9bd76cca2740355a83",
-  "size": 15831107
+  "source_sha": "4037013a3948c5ad45b24490283ea4915f87464b",
+  "sha256": "78d33b94a38270bdc7b787b996a1a1c061cd7ce68c5ac09c847a3d0c701ec738",
+  "size": 15831534
 }
