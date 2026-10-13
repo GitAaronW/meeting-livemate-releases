@@ -1,11 +1,11 @@
 {
-  "version": "0.10.15",
+  "version": "0.10.16",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.15.zip",
-  "notes": "修复会前资料缓存：新增关联材料或版本变化立即重新准备，首次未发现材料不再标为完成。保留agendaText议程中的材料链接与人工笔记。尚未实现自动找齐所有材料；未安装重启本机，真实录音及他机验收未完成。",
+  "zip": "tinghuitai-desktop-v0.10.16.zip",
+  "notes": "资料正文不再静默截断：保留Notion长文字和深层分页，本机授权Google同步文本保留末段。Notion达到单次块预算可续读，云库自动接续；仍未读完时把覆盖及续读状态带入任务全文快照。未安装重启本机，真实网络材料、录音和他机验收未完成。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "1ea94d4423ad95011c7da6472e8728a1aa3c99a0",
-  "sha256": "79d5ac61fc21effea743a96bdbf5788c2c8a4dc07e714dc754269de23304ef2e",
-  "size": 15890588
+  "source_sha": "e851c58548bbee22560028ebf50d7bf9d0dd15c6",
+  "sha256": "018760353b7a4c2156043f9d7f83a56db177e10b75ea2f99ab80457556f3ded6",
+  "size": 15892013
 }
