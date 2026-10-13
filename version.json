@@ -1,11 +1,11 @@
 {
-  "version": "0.10.11",
+  "version": "0.10.12",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.11.zip",
-  "notes": "会前自动整理已关联资料，读取已接通飞书正文并保留版本回执；首页区分在线读取、缓存及待读取链接。修复双日历同ID丢会及误用加入链接、改期并发倒退，保留人工编辑。主动智能去除健康连接提示。原生录音权限和他机安装仍未验收。",
+  "zip": "tinghuitai-desktop-v0.10.12.zip",
+  "notes": "原生悬浮窗改为竖向胶囊，灯泡与 CC 分别展开同场主动智能和逐字稿；逐字稿支持最近120段滚动与阅读位置保持，波形使用真实状态。修复展开窗录音按钮矛盾。主App退出清理、原生采音权限和他机验收仍未完成；无Developer ID及公证。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "ee667b80c43e1d1b0e863de41a0a13ebd1d4cffb",
-  "sha256": "8946d23458f710062e13f820fc2d32dec90a68acb847eac24aec733a977d2f15",
-  "size": 15847962
+  "source_sha": "0b4c0cdb06dac23fc09a63f91a25a1e103c0636a",
+  "sha256": "8c0bbf5ba5f8394c15c659058e4d1ccf8604cd0af716095f59fad664933dffe5",
+  "size": 15867437
 }
