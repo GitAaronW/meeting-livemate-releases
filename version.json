@@ -1,11 +1,11 @@
 {
-  "version": "0.10.9",
+  "version": "0.10.10",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.9.zip",
-  "notes": "会议、首页与笔记复用同一输入框，保留草稿与目标上下文；总结、逐字稿和主动智能独立折叠。长输入自动留出文档滚动空间；修复浏览器录音暂停、断流提示与 ASR 重连等待，AI 局部修改保留原文。原生录音权限和真实会议采集仍未验收。",
+  "zip": "tinghuitai-desktop-v0.10.10.zip",
+  "notes": "候选就地评论与修订，保留原稿、意见和来源，明确采用后进入文档；修复跨会议切换串页与候选自动插入。日历准备补齐参与人及关联资料链接，跨会议任务保留各场原文。预览失败可重试。原生录音权限、真实会议及他机安装仍未验收。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "9697fe46543e8f9715610449bcc0e8cf0a560a48",
-  "sha256": "dd4d30d64f9b87c5536c9bcbbb94d5b150c8d19be27cd6095a838200b7db60cb",
-  "size": 15975763
+  "source_sha": "223005666832ab44586858cf1ef9bfbfa216d3a0",
+  "sha256": "78e7faf6b7899e2bd16a268a26588eabd7bbcb31e7c0b961d5eaca5f3c9f8852",
+  "size": 15984624
 }
