@@ -1,11 +1,11 @@
 {
-  "version": "0.10.5",
+  "version": "0.10.6",
   "released": "2026-10-13",
-  "zip": "tinghuitai-desktop-v0.10.5.zip",
-  "notes": "修复已结束待核对任务阻挡更新，家庭包升级纠正旧 Intel 运行环境，保留现有 Key 与资料。",
+  "zip": "tinghuitai-desktop-v0.10.6.zip",
+  "notes": "修复跨芯片运行环境升级时的服务归属误判：旧服务核实并替换成功后才更新运行环境记录，保留 Key、配置与会议资料。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "4037013a3948c5ad45b24490283ea4915f87464b",
-  "sha256": "78d33b94a38270bdc7b787b996a1a1c061cd7ce68c5ac09c847a3d0c701ec738",
-  "size": 15831534
+  "source_sha": "a630a3947df0674f5196319b97539ccf93b85fdc",
+  "sha256": "4dcdea80e52bdf395a314ef598c516ff64cc39019d9aab3db1596ca44a756690",
+  "size": 15832038
 }
