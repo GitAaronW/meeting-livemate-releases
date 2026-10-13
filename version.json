@@ -1,11 +1,11 @@
 {
-  "version": "0.10.3",
+  "version": "0.10.4",
   "released": "2026-10-13",
-  "zip": "tinghuitai-desktop-v0.10.3.zip",
-  "notes": "\u5bb6\u5ead\u542f\u52a8\u4e0e\u5347\u7ea7\u914d\u7f6e\u4fdd\u7559\u4fee\u590d\uff0c\u542f\u52a8\u5931\u8d25\u53ef\u89c1\u65e5\u5fd7\u3002",
+  "zip": "tinghuitai-desktop-v0.10.4.zip",
+  "notes": "原生 Mac 启动入口与逐句语义降级修复，升级保留配置。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "1bb59eecbf97ebf61cbb36e87db4c4fe070efed4",
-  "sha256": "356f9680d5e738f09f8fe382e0ce1f57941a18803f797916290708cc17566a9f",
-  "size": 15796843
+  "source_sha": "fd8931aa5384b8846c328f964c056f923e4b96fe",
+  "sha256": "b52884e4d92ac7f479e861fc8f965278dfa0e31d4ed0aa9bd76cca2740355a83",
+  "size": 15831107
 }
