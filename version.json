@@ -1,11 +1,11 @@
 {
-  "version": "0.10.13",
+  "version": "0.10.14",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.13.zip",
-  "notes": "新增原生主窗口，关闭窗口保留运行、重新打开回到同场文档；显式退出先确认所属录音组件收尾，失败保留窗口可重试，服务重启恢复身份。WebKit实际首页和文档编辑已通过无采音验证。新主窗口需用本版DMG替换App，程序内更新只升级程序内容。未安装或重启本机；真实采音、Developer ID公证和妻子他机验收仍未完成。",
+  "zip": "tinghuitai-desktop-v0.10.14.zip",
+  "notes": "执行任务附上同场完整逐字稿、人工笔记、确认记录及选定资料和评论，保留版本与不可变校验值。任务附近引文明确标为节选；备用模型输入超限时拒绝截断。真实Codex已读取104KB合成全文并返回末段标记。未安装或重启本机，真实录音及他机验收未完成。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "e7204aed1e7111e9165761500ac8c39053c21676",
-  "sha256": "392e18e9e1cd1ac18501f7e83c86a98540f8b1c3940e843c49412ec5afa531a9",
-  "size": 15887771
+  "source_sha": "1aae9e9e5959d1dfb62896060c0531d6098a8844",
+  "sha256": "c472341d9e7d1ae483364c698e8af83baaa6c11ddb4575ced89d71daa978a14e",
+  "size": 15890146
 }
