@@ -1,11 +1,11 @@
 {
-  "version": "0.10.2",
+  "version": "0.10.3",
   "released": "2026-10-13",
-  "zip": "tinghuitai-desktop-v0.10.2.zip",
-  "notes": "任务与验收绑定、首稿回执、长会分段校准及私密成果预览修复。",
+  "zip": "tinghuitai-desktop-v0.10.3.zip",
+  "notes": "\u5bb6\u5ead\u542f\u52a8\u4e0e\u5347\u7ea7\u914d\u7f6e\u4fdd\u7559\u4fee\u590d\uff0c\u542f\u52a8\u5931\u8d25\u53ef\u89c1\u65e5\u5fd7\u3002",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "19784fafd7932d9626d6843fb3ab22d4c933e1b7",
-  "sha256": "3e2b471803e4a1925aa06b2a9630bbefc84a2d5b1b8d1fba0a61149736d52f28",
-  "size": 15796694
+  "source_sha": "1bb59eecbf97ebf61cbb36e87db4c4fe070efed4",
+  "sha256": "356f9680d5e738f09f8fe382e0ce1f57941a18803f797916290708cc17566a9f",
+  "size": 15796843
 }
