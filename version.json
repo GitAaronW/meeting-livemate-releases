@@ -1,11 +1,11 @@
 {
-  "version": "0.10.6",
+  "version": "0.10.7",
   "released": "2026-10-13",
-  "zip": "tinghuitai-desktop-v0.10.6.zip",
-  "notes": "修复跨芯片运行环境升级时的服务归属误判：旧服务核实并替换成功后才更新运行环境记录，保留 Key、配置与会议资料。",
+  "zip": "tinghuitai-desktop-v0.10.7.zip",
+  "notes": "新增可拖动迷你浮条、悬停逐字稿预览与暂停状态；修复启动失败重试和首页计时接续。原生双路音频流程已实现，但本机 macOS 授权仍拒绝采集，未完成真实会议验收；本次不再重试权限。升级保留现有 Key、配置和会议资料。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "a630a3947df0674f5196319b97539ccf93b85fdc",
-  "sha256": "4dcdea80e52bdf395a314ef598c516ff64cc39019d9aab3db1596ca44a756690",
-  "size": 15832038
+  "source_sha": "31b48f8e1ef0b214b76c2d4b83344b1aae9740a5",
+  "sha256": "5d576478fbadfe0f0fbdfa63adea760e0501dbcd19c67b29896c58782b2f060b",
+  "size": 15859034
 }
