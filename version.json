@@ -1,11 +1,11 @@
 {
-  "version": "0.10.16",
+  "version": "0.10.17",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.16.zip",
-  "notes": "资料正文不再静默截断：保留Notion长文字和深层分页，本机授权Google同步文本保留末段。Notion达到单次块预算可续读，云库自动接续；仍未读完时把覆盖及续读状态带入任务全文快照。未安装重启本机，真实网络材料、录音和他机验收未完成。",
+  "zip": "tinghuitai-desktop-v0.10.17.zip",
+  "notes": "会前准备自动登记日历里的明确资料链接，使用已有授权读取飞书和Notion正文；Notion完整分页、版本复核及人工修改保护。长日历说明保留完整链接和版本身份，录音期间仍准备后续会议但跳过重维护。Google在线读取尚未接通，未安装重启本机，真实录音及他机验收未完成。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "e851c58548bbee22560028ebf50d7bf9d0dd15c6",
-  "sha256": "018760353b7a4c2156043f9d7f83a56db177e10b75ea2f99ab80457556f3ded6",
-  "size": 15892013
+  "source_sha": "03ec49fb42aca73dd7e12c79f88e9a691e2ea0f3",
+  "sha256": "e10961296afe27d9b2fa9ee4c028a21cbb3482413419deafaad9e3373108c6cd",
+  "size": 15894103
 }
