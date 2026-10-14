@@ -1,11 +1,11 @@
 {
-  "version": "0.10.25",
+  "version": "0.10.26",
   "released": "2026-10-15",
-  "zip": "tinghuitai-desktop-v0.10.25.zip",
-  "notes": "保留虚拟声卡原始音频；分别呈现输入与共享声音状态；静音不再误触发识别重连。真实会议采音仍待验收。",
+  "zip": "tinghuitai-desktop-v0.10.26.zip",
+  "notes": "浏览器录音重连保留已接入的会议共享声音；重建失败保留共享授权并如实显示暂停；输入未接入会议声音时提供明确入口。真实会议远端采音仍待验收。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "06a1e66dae523bc034924fddcd19bde3aafa8125",
-  "sha256": "36bac0bc38ad9497cdb292232c659707baa104ee1465ec593a0534c07d1e8f26",
-  "size": 15922780
+  "source_sha": "c0e96ff7067b1503dba1cf9dbc89f4b74f4438d0",
+  "sha256": "e0ad9283aeb42115a221b0c4200ebc99354a18d103f425d534cafac9e7bc42df",
+  "size": 15923790
 }
