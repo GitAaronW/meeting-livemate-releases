@@ -1,11 +1,11 @@
 {
-  "version": "0.10.27",
+  "version": "0.10.28",
   "released": "2026-10-15",
-  "zip": "tinghuitai-desktop-v0.10.27.zip",
-  "notes": "虚拟或聚合输入未接共享声音时，也显示同场接入会议声音入口；浏览器电平传递到转写窗，不被原生空闲状态清零。保留当前会议与麦克风。真实对方声音采集仍未验收。",
+  "zip": "tinghuitai-desktop-v0.10.28.zip",
+  "notes": "修复网页默认只采麦克风：开始时同步选择带会议声音的共享来源，取消或无音轨不启动；会中切麦保留声音来源。三栏会议工作区、可编辑结构图、资料链接预览与显式配置模型入口。真实远端采音、双方供应商实际调用及妻子电脑验收仍未完成。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "86a21e524c13471dbd4656455a812840ef08de51",
-  "sha256": "7577988ddb6ee065eb25d59cef49d6d930f35e713e9040743c724f013521a76a",
-  "size": 15924414
+  "source_sha": "5b9542cee80c6aa100a7d51061dfd8b7e63ce64f",
+  "sha256": "a7852f5891b365d0f75fae62f84fa57ffbdf180b5114e80c2b6c2eb19cb4f268",
+  "size": 15936827
 }
