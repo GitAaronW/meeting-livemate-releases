@@ -1,11 +1,11 @@
 {
-  "version": "0.10.19",
+  "version": "0.10.20",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.19.zip",
-  "notes": "图示节点和关系可直接编辑，冲突与保存失败在编辑窗口内显示并保留输入；来源图片可按需预览并加入可编辑画布，保留来源身份、版本和原文，HTML导出支持图文及窄屏完整来源换行。图片网络链接可能过期，尚非离线内嵌图片，也不代表AI理解像素；未安装重启，真实录音及他机验收未完成。",
+  "zip": "tinghuitai-desktop-v0.10.20.zip",
+  "notes": "会前按日历主题检索已有授权的 Google Drive 资料候选，支持限时分页接续；候选不冒充正式材料。一键加入本场并读取正文，保留材料角色、人工笔记和日程版本保护。修复已加入资料在正常任务执行中丢失全文的问题；跨项目和归档材料不进入上下文。合成界面与回归通过，真实会议、原生录音和妻子电脑升级仍未验收；本机未安装重启。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "sha256": "62663a8ba0fe14025e290ef620f2369912ef69efb91e2d746b0f864f4a9e6860",
-  "size": 15903878,
-  "source_sha": "dad6e1eb6f5e22b1a0dd8b38b3a543c71c200211"
+  "sha256": "eb39b7dce0fa7703e5a8b5d4f9e99fca8ededa493cb0f8a17f867baa97c8b32c",
+  "size": 7183357,
+  "source_sha": "c586b592b3458d0dde4ad0e0cbc47f37faedea81"
 }
