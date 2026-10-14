@@ -1,11 +1,11 @@
 {
-  "version": "0.10.17",
+  "version": "0.10.18",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.17.zip",
-  "notes": "会前准备自动登记日历里的明确资料链接，使用已有授权读取飞书和Notion正文；Notion完整分页、版本复核及人工修改保护。长日历说明保留完整链接和版本身份，录音期间仍准备后续会议但跳过重维护。Google在线读取尚未接通，未安装重启本机，真实录音及他机验收未完成。",
+  "zip": "tinghuitai-desktop-v0.10.18.zip",
+  "notes": "会前日历明确链接支持已有授权的 Google Slides 完整正文读取，保留备注、表格、每页原始图片引用和远端版本；自动准备与不可变任务上下文保留全文，读取期间版本变化或人工编辑时拒绝覆盖。修复 Markdown 和中文括号资料链接。图片引用尚不代表理解像素，自动搜索及正式材料角色继续开发；本机未安装重启，真实录音与他机验收未完成。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "03ec49fb42aca73dd7e12c79f88e9a691e2ea0f3",
-  "sha256": "e10961296afe27d9b2fa9ee4c028a21cbb3482413419deafaad9e3373108c6cd",
-  "size": 15894103
+  "sha256": "3df00e5e478f02beac07cc9f27babc968e813a24b563bae9f4aa573abfd9f73c",
+  "size": 15897169,
+  "source_sha": "3aab5c2fd26597caee82391a68511cacf0af8001"
 }
