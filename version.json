@@ -1,11 +1,11 @@
 {
-  "version": "0.10.26",
+  "version": "0.10.27",
   "released": "2026-10-15",
-  "zip": "tinghuitai-desktop-v0.10.26.zip",
-  "notes": "浏览器录音重连保留已接入的会议共享声音；重建失败保留共享授权并如实显示暂停；输入未接入会议声音时提供明确入口。真实会议远端采音仍待验收。",
+  "zip": "tinghuitai-desktop-v0.10.27.zip",
+  "notes": "虚拟或聚合输入未接共享声音时，也显示同场接入会议声音入口；浏览器电平传递到转写窗，不被原生空闲状态清零。保留当前会议与麦克风。真实对方声音采集仍未验收。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "c0e96ff7067b1503dba1cf9dbc89f4b74f4438d0",
-  "sha256": "e0ad9283aeb42115a221b0c4200ebc99354a18d103f425d534cafac9e7bc42df",
-  "size": 15923790
+  "source_sha": "86a21e524c13471dbd4656455a812840ef08de51",
+  "sha256": "7577988ddb6ee065eb25d59cef49d6d930f35e713e9040743c724f013521a76a",
+  "size": 15924414
 }
