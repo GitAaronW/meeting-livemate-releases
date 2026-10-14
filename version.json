@@ -1,11 +1,11 @@
 {
-  "version": "0.10.18",
+  "version": "0.10.19",
   "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.18.zip",
-  "notes": "会前日历明确链接支持已有授权的 Google Slides 完整正文读取，保留备注、表格、每页原始图片引用和远端版本；自动准备与不可变任务上下文保留全文，读取期间版本变化或人工编辑时拒绝覆盖。修复 Markdown 和中文括号资料链接。图片引用尚不代表理解像素，自动搜索及正式材料角色继续开发；本机未安装重启，真实录音与他机验收未完成。",
+  "zip": "tinghuitai-desktop-v0.10.19.zip",
+  "notes": "图示节点和关系可直接编辑，冲突与保存失败在编辑窗口内显示并保留输入；来源图片可按需预览并加入可编辑画布，保留来源身份、版本和原文，HTML导出支持图文及窄屏完整来源换行。图片网络链接可能过期，尚非离线内嵌图片，也不代表AI理解像素；未安装重启，真实录音及他机验收未完成。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "sha256": "3df00e5e478f02beac07cc9f27babc968e813a24b563bae9f4aa573abfd9f73c",
-  "size": 15897169,
-  "source_sha": "3aab5c2fd26597caee82391a68511cacf0af8001"
+  "sha256": "62663a8ba0fe14025e290ef620f2369912ef69efb91e2d746b0f864f4a9e6860",
+  "size": 15903878,
+  "source_sha": "dad6e1eb6f5e22b1a0dd8b38b3a543c71c200211"
 }
