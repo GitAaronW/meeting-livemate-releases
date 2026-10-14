@@ -1,11 +1,11 @@
 {
-  "version": "0.10.24",
-  "released": "2026-10-14",
-  "zip": "tinghuitai-desktop-v0.10.24.zip",
-  "notes": "原生声音来源使用实际CoreAudio设备，支持会中换麦克风并等待录音端确认；失败保留原输入。网页版可在同场录音中追加或更换共享会议标签页声音，不重建麦克风、ASR连接或录音备份，取消及失败保留原录音，共享结束后麦克风继续。修复后端标记browser活动时菜单入口隐藏。针对性模拟测试及双架构编译通过；真实非静音双路收音仍未验收，旧活动页面不会自动获得新入口，Developer ID签名和妻子电脑验收仍未完成。",
+  "version": "0.10.25",
+  "released": "2026-10-15",
+  "zip": "tinghuitai-desktop-v0.10.25.zip",
+  "notes": "保留虚拟声卡原始音频；分别呈现输入与共享声音状态；静音不再误触发识别重连。真实会议采音仍待验收。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "61c752c0fe5b84ee2da99f6fa9c1af9a84b569b0",
-  "sha256": "4fa1fe5bb66d20d10bb55f45ffc68df73ddf0aee95eba6ba3956f932c3c22f04",
-  "size": 15920868
+  "source_sha": "06a1e66dae523bc034924fddcd19bde3aafa8125",
+  "sha256": "36bac0bc38ad9497cdb292232c659707baa104ee1465ec593a0534c07d1e8f26",
+  "size": 15922780
 }
