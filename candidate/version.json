@@ -1,12 +1,12 @@
 {
-  "version": "0.10.34",
+  "version": "0.10.35",
   "released": "2026-10-16",
-  "zip": "tinghuitai-desktop-v0.10.34.zip",
-  "notes": "会议资料候选默认折叠、可展开原始链接；修复转义标题和旧自动候选安全迁移，保留人工修改及历史；精简重复会议标题和文档边栏，恢复侧栏检查更新入口。隔离界面验证覆盖模型切换、附件重开保留、任务编辑保存。候选版：真实双路录音、暂停重连、升级恢复和他机安装尚未完成同包验收。",
+  "zip": "tinghuitai-desktop-v0.10.35.zip",
+  "notes": "文档局部 AI 编辑接续本场对话与最新更正，可从文字生成结构图和正文；保护未选中人工段落，支持采用后撤销及重开。修复语音输入停止和切换时的过期回调；总结与转写改为平面连续栏，精简资料标题并默认折叠长日历说明。候选版：真实双路录音、暂停重连、升级恢复和他机安装尚未完成同包验收。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
   "channel": "candidate",
-  "source_sha": "4a7ecf95eefe917b2a3aef48a71c4e9dfa21e0bc",
-  "sha256": "3f6a3107b97211e08f781cb21be807c6f0106722b18a38e146d6f6a1d39801fd",
-  "size": 16075416
+  "source_sha": "dca8ae4fbfce708991f47bfed3bf560b78ec19f2",
+  "sha256": "aeb7e9655220dc5b6f94bd99c4e4c49cb662cd7fd97d9378308c1346ae508edf",
+  "size": 16078143
 }
