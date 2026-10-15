@@ -1,0 +1,12 @@
+{
+  "version": "0.10.29",
+  "released": "2026-10-15",
+  "zip": "tinghuitai-desktop-v0.10.29.zip",
+  "notes": "首页与会议共用导航和提问框，项目、主题与任务支持创建及编辑；修复首页计时刷新和主题标题布局、结构图写入与重开丢失。AI可读取早期会议原文并按后续要求修订独立草稿，保留人工正文。候选版：真实双路录音、暂停重连与升级后恢复尚未完成同包验收。",
+  "min_macos": 13,
+  "stable_zip": "tinghuitai-desktop.zip",
+  "channel": "candidate",
+  "source_sha": "a01b5d67e807b15cde0891d6e3c1f2a0d35381c7",
+  "sha256": "266e17df90e603d956395526ba2e3d45893155e6904cae071ef9aaee355a0e02",
+  "size": 16055506
+}
