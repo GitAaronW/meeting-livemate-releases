@@ -1,12 +1,12 @@
 {
-  "version": "0.10.41",
+  "version": "0.10.42",
   "released": "2026-10-16",
-  "zip": "tinghuitai-desktop-v0.10.41.zip",
-  "notes": "首页历史会议改为连续紧凑列表，快捷入口统一轻量工具栏；显式双路线图完整展示，中心与文档使用一致的语义配色，右栏支持完整缩略与放大，英文标题按词换行。候选版：真实双路录音、重连、升级恢复及他机安装仍待同包验收；临时签名，未公证。",
+  "zip": "tinghuitai-desktop-v0.10.42.zip",
+  "notes": "恢复同一日历场次录音页面的原始资料；同项目上一场即使没有本机逐字稿，也能接续已编辑成果和用户确认的原始纪要，纪要链接直接显示在文档资料区。候选版：真实双路录音、重连、升级恢复及他机安装仍待同包验收；临时签名，未公证。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
   "channel": "candidate",
-  "source_sha": "3c1a15b97046e58a9dc457e48e3638a6c22c1e49",
-  "sha256": "0649c3bc0d441dfae37796905904bf7b76a1db5811a8ee48d41d66962dafb35e",
-  "size": 11673652
+  "sha256": "fd2ed0253063fa4af067812d4e1203d0f38ea9fcffd0f8473dbf70a1e1314974",
+  "size": 16016606,
+  "source_sha": "8307f0c643ec7c648981cb8c4b00fa28d9bbabad"
 }
