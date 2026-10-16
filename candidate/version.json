@@ -1,12 +1,12 @@
 {
-  "version": "0.10.39",
+  "version": "0.10.40",
   "released": "2026-10-16",
-  "zip": "tinghuitai-desktop-v0.10.39.zip",
-  "notes": "短流程图默认完整竖向展示，保留自然字号和全部显式关系；右栏资料优先，接续、候选与日历说明统一收纳；录音状态与唯一聊天输入保持同一行，减少底部占位。候选版：真实双路录音、暂停重连、升级恢复、后台胶囊和他机安装仍未完成同包验收，复杂图质量继续改进。",
+  "zip": "tinghuitai-desktop-v0.10.40.zip",
+  "notes": "首次打开跟随系统语言，并同步会议与 MyAgent；悬停紧凑胶囊可查看带时间戳的实时转写，不改变胶囊位置，支持固定展开。候选版：真实双路录音、重连、升级恢复及他机安装仍待同包验收；仅临时签名，未公证。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
   "channel": "candidate",
-  "source_sha": "4487e4275385ab0b1eae6468d24d8e01d1fe4014",
-  "sha256": "0fb9aa08ca41841fb8fa86805b86e124b970b67a0f6b13143c45bfd9dc245630",
-  "size": 11657827
+  "source_sha": "29a460889e95081825ad2dbc29db7761f29c3462",
+  "sha256": "17706a4d95fb7227875f1341b79c090c5f21d15e349706eb8e425e0798a197d4",
+  "size": 11671697
 }
