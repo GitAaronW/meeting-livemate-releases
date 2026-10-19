@@ -1,11 +1,13 @@
 {
-  "version": "0.10.28",
-  "released": "2026-10-15",
-  "zip": "tinghuitai-desktop-v0.10.28.zip",
-  "notes": "修复网页默认只采麦克风：开始时同步选择带会议声音的共享来源，取消或无音轨不启动；会中切麦保留声音来源。三栏会议工作区、可编辑结构图、资料链接预览与显式配置模型入口。真实远端采音、双方供应商实际调用及妻子电脑验收仍未完成。",
+  "version": "0.10.50",
+  "released": "2026-10-19",
+  "zip": "tinghuitai-desktop-v0.10.50.zip",
+  "notes": "整合首页与三栏会议文档、日历加入、资料预览及同稿接续；加强人工修改与来源保护。主动智能语义质量仍待完善；未完成真实录音验收及妻子电脑验收。临时签名，未公证。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "source_sha": "5b9542cee80c6aa100a7d51061dfd8b7e63ce64f",
-  "sha256": "a7852f5891b365d0f75fae62f84fa57ffbdf180b5114e80c2b6c2eb19cb4f268",
-  "size": 15936827
+  "channel": "stable",
+  "recording_acceptance": "pending",
+  "source_sha": "9e6e5e41820072a5de3d0af2ad3ad2b36c5e5070",
+  "sha256": "27d6c16c7552cf7ff67bb92d1cc5707b67894cd164eb065cf38f11a620f82bbd",
+  "size": 16128842
 }
