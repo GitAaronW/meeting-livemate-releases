@@ -1,13 +1,13 @@
 {
-  "version": "0.10.50",
+  "version": "0.10.51",
   "released": "2026-10-19",
-  "zip": "tinghuitai-desktop-v0.10.50.zip",
-  "notes": "整合首页与三栏会议文档、日历加入、资料预览及同稿接续；加强人工修改与来源保护。主动智能语义质量仍待完善；未完成真实录音验收及妻子电脑验收。临时签名，未公证。",
+  "zip": "tinghuitai-desktop-v0.10.51.zip",
+  "notes": "修复默认录音入口：直接接入系统声音与麦克风；日历加入打开真实会议链接并自动启动，启动失败可立即重试。支持已结束会议显式接续，保留原有笔记、附件及转写。未完成真实录音验收及妻子电脑验收；临时签名，未公证。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
   "channel": "stable",
   "recording_acceptance": "pending",
-  "source_sha": "9e6e5e41820072a5de3d0af2ad3ad2b36c5e5070",
-  "sha256": "27d6c16c7552cf7ff67bb92d1cc5707b67894cd164eb065cf38f11a620f82bbd",
-  "size": 16128842
+  "source_sha": "b49fc10dffb1db96301b9d5791fcb95c5dd33b94",
+  "sha256": "2fafeb3d5be84cff9ae1435c1638c0105d764c27602ae800d4edd0291f8f7995",
+  "size": 16132001
 }
