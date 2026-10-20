@@ -1,13 +1,13 @@
 {
-  "version": "0.10.51",
+  "version": "0.10.53",
   "released": "2026-10-19",
-  "zip": "tinghuitai-desktop-v0.10.51.zip",
+  "zip": "tinghuitai-desktop-v0.10.53.zip",
   "notes": "修复默认录音入口：直接接入系统声音与麦克风；日历加入打开真实会议链接并自动启动，启动失败可立即重试。支持已结束会议显式接续，保留原有笔记、附件及转写。未完成真实录音验收及妻子电脑验收；临时签名，未公证。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
   "channel": "stable",
   "recording_acceptance": "pending",
-  "source_sha": "b49fc10dffb1db96301b9d5791fcb95c5dd33b94",
-  "sha256": "2fafeb3d5be84cff9ae1435c1638c0105d764c27602ae800d4edd0291f8f7995",
-  "size": 16132001
+  "source_sha": "c0638c2ac2e054eb825864454e50c69c6b585132",
+  "sha256": "557a5a415a0e988068811f969204af44cd974503ac681c8e7f9d21b0e4d89494",
+  "size": 16134610
 }
