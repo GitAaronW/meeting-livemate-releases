@@ -1,13 +1,12 @@
 {
-  "version": "0.10.53",
-  "released": "2026-10-19",
-  "zip": "tinghuitai-desktop-v0.10.53.zip",
-  "notes": "修复默认录音入口：直接接入系统声音与麦克风；日历加入打开真实会议链接并自动启动，启动失败可立即重试。支持已结束会议显式接续，保留原有笔记、附件及转写。未完成真实录音验收及妻子电脑验收；临时签名，未公证。",
-  "min_macos": 13,
-  "stable_zip": "tinghuitai-desktop.zip",
+  "version": "0.10.54",
+  "released": "2026-10-21",
+  "zip": "tinghuitai-desktop-v0.10.54.zip",
+  "sha256": "4b39e5c21996f64db5b21715208ab10362ed4d41bf49f007480d47c1d11c2d10",
+  "size": 16207312,
+  "source_sha": "f752ebd6d18f22fc7913a9bfa4342a56568e4f57",
   "channel": "stable",
+  "min_macos": 13,
   "recording_acceptance": "pending",
-  "source_sha": "c0638c2ac2e054eb825864454e50c69c6b585132",
-  "sha256": "557a5a415a0e988068811f969204af44cd974503ac681c8e7f9d21b0e4d89494",
-  "size": 16134610
+  "notes": "恢复英文入口；支持草稿保存、失败重试和预览；完整草稿可收录到指定章节，保护人工图文与来源并支持撤销；整合窗口联动与三栏拖宽。个人试用更新，产品验收由使用者完成。主动智能减噪等后续需求尚未完成；未完成真实录音及妻子电脑验收；临时签名、未公证。"
 }
