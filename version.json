@@ -1,12 +1,12 @@
 {
-  "version": "0.10.62",
+  "version": "0.10.63",
   "released": "2026-10-22",
-  "zip": "tinghuitai-desktop-v0.10.62.zip",
-  "sha256": "5fda062789ca79d7681d56d0114ce69e1520869ec19d6a6c2572387312bc3196",
-  "size": 20631714,
-  "source_sha": "99a8f46d6301a21c98abc944e95f5761a0961b8f",
+  "zip": "tinghuitai-desktop-v0.10.63.zip",
+  "sha256": "16ad18b3c94b974c9bb523b60c6bb00e2fb1f83f2fdd3690979914e01966dd67",
+  "size": 20632046,
+  "source_sha": "05968c6c51f2139ec4c983ce111a08e5560da8e7",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "pending",
-  "notes": "同一文档跨会续写、AI 段落局部修订与版本恢复；写入前后核对原文，冲突保留人工修改，明确显示同步不确定状态。真实 Notion 写回、真实采音和他机升级仍待验；临时签名、未公证。；个人试用，产品与真实会议验收待使用者完成。"
+  "notes": "参会人变化时自动刷新会前准备，丢弃旧参会人异步结果；跨会接续保留原发言人、时间与来源，保护原文与重复重试。真实会议、Notion写回和他机升级仍待验；临时签名、未公证。；个人试用，产品与真实会议验收待使用者完成。"
 }
