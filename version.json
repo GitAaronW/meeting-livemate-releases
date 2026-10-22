@@ -1,12 +1,12 @@
 {
-  "version": "0.10.71",
+  "version": "0.10.73",
   "released": "2026-10-23",
-  "zip": "tinghuitai-desktop-v0.10.71.zip",
-  "sha256": "d4c16b45f29423a743ffa0d53e1328c0cf8a193c5c7ea781d42e64a16d0af241",
-  "size": 95751218,
-  "source_sha": "10753f8db3a85a49f63754323b489cfac25a315c",
+  "zip": "tinghuitai-desktop-v0.10.73.zip",
+  "sha256": "00e1884ae899325aeeb3c6570a54ef48e9d9324bcda5fdd45bffc84ba7e715ce",
+  "size": 95751422,
+  "source_sha": "60c45206af2dc949a7821a6418ef3bb9183dd47d",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "pending",
-  "notes": "升级兼容准备：保留0.10.65完整录音组件与权限身份，准备固定运行环境及后续主动智能更新。旧采音组件的积压自动暂停行为仍保留。；个人试用，产品与真实会议验收待使用者完成。"
+  "notes": "修复首页必要脚本不可访问导致工作台打不开；修复升级时服务启动竞态，保留设置和录音组件。兼容升级准备版本。；个人试用，产品与真实会议验收待使用者完成。"
 }
