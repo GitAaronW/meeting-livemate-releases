@@ -1,12 +1,12 @@
 {
-  "version": "0.10.64",
+  "version": "0.10.65",
   "released": "2026-10-22",
-  "zip": "tinghuitai-desktop-v0.10.64.zip",
-  "sha256": "fb55dc0acf1a5e943ed04d84fe43d1eb286b66ba8648b49542561fef415bd2e1",
-  "size": 20634241,
-  "source_sha": "af6b50b2aefa8c0412e0499afb7f9ce737c5a975",
+  "zip": "tinghuitai-desktop-v0.10.65.zip",
+  "sha256": "233538784bb0aba686c23a753d25316151bc7d5a5db074fa9d72531878a54ed3",
+  "size": 20649352,
+  "source_sha": "eab6a2c218e856ac73a84aad7c1c7acac15b3f1c",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "pending",
-  "notes": "资料刷新明确被拒绝后，新任务与会前准备不再使用旧远端正文，保留本地恢复缓存与人工修改；修复权限拒绝混合超时误判，Notion 错误显示可读原因且不暴露凭据。真实远端撤权、Notion 写回、会议及他机升级仍待验；临时签名、未公证。；个人试用，产品与真实会议验收待使用者完成。"
+  "notes": "主文档整理区分无新增信息、待核查草稿与可采用增量；保留被拦截草稿和修改意见，重试时隔离无依据内容并核查完整上下文，保护人工正文与来源。补齐本机话题录音触发设置和防重放，发布后按哈希清理旧安装包。真实会议、真实办公回写与他机升级仍待验；临时签名、未公证。；个人试用，产品与真实会议验收待使用者完成。"
 }
