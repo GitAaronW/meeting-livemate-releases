@@ -1,0 +1,12 @@
+{
+  "version": "0.10.72",
+  "released": "2026-10-23",
+  "zip": "tinghuitai-desktop-v0.10.72.zip",
+  "sha256": "3a18798a6c392ae21c06604d28cb24c90a9da1963ad46ea93b718a228a61ce59",
+  "size": 25380311,
+  "source_sha": "e333a03f6bd35c46d95a1ce1212bc0b51b6fc6dd",
+  "channel": "stable",
+  "min_macos": 13,
+  "recording_acceptance": "pending",
+  "notes": "主动智能与JEV更新：输入与发布分别判断，同场排队合并并丢弃过时结果；判断失败可重试最新上下文。保留个人设置、文本和0.10.65完整录音组件及权限身份。旧采音积压自动暂停行为仍保留；真实会议质量与延迟待验。；个人试用，产品与真实会议验收待使用者完成。"
+}
